@@ -9,13 +9,13 @@ url: "/docs/cli"
 
 ## Overview
 
-Web interfaces change and evolve over time. While gradual improvement is a nice concept, it too often gets in the way of getting things done and prevents power users to become masters of their tools. Digital tools ends up owning the artists instead of the other way around.
+Web interfaces change and evolve over time. While gradual improvement is a nice concept, it too often gets in the way of getting things done and prevents power users from becoming masters of their tools. Digital tools end up owning the artists instead of the other way around.
 
-Would a chef tolerate a knife that would automagically changes its shape and weight every night?
+Would a chef tolerate a knife that would automagically change its shape and weight every night?
 
 The great thing about the command line is that it never changes. The interface is so simple that it doesn't need to be tweaked every week or so. That's real software sustainability.
 
-In 20 years from now, you will still use the same command line to publish your posts on Markdown Ninja.
+In 20 years, you will still use the same command line to publish your posts on Markdown Ninja.
 
 
 ## Getting Started
