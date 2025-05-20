@@ -9,6 +9,7 @@
 
 Markdown Ninja is the easiest way to publish Markdown-based websites and newsletters. The days of hacking a static site generator, a broken theme, a complex CI/CD pipeline and a cloud platform with unlimited billing to publish a website are long gone!
 
+You can now publish your blog, documentation website or newsletter in one command:
 
 ```bash
 $ docker run -i --rm -e MARKDOWN_NINJA_API_KEY=[YOUR_API_KEY] -v `pwd`:/mdninja ghcr.io/bloom42/markdown-ninja publish
