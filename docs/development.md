@@ -1,4 +1,4 @@
-# Developemnt
+# Developement
 
 
 ## Docker
@@ -32,7 +32,7 @@ resources:
 
 ## Devcontainer
 
-Connect the developemnt container to the `no-internet` network:
+Connect your developemnt container to the `no-internet` network:
 
 ```bash
 $ docker network connect no-internet [YOUR_DEV_CONTAINER]
