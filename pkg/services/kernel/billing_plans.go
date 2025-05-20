@@ -43,7 +43,7 @@ var PlanFree = Plan{
 	Features: []string{
 		"1 Website",
 		"1 Staff",
-		"10 MB assets storage",
+		// "10 MB assets storage",
 		"Built-in Analytics",
 		"Headless CMS",
 	},
