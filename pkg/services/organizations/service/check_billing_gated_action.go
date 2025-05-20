@@ -95,7 +95,7 @@ func (service *OrganizationsService) CheckBillingGatedAction(ctx context.Context
 			if actionData.AssetType == content.AssetTypeVideo {
 				return errs.InvalidArgument("To prevent abuse, videos can't be uploaded on the free plan.")
 			}
-			// return errs.InvalidArgument("To prevent abuse, a paid plan is required to upload assets.")
+			return errs.InvalidArgument("To prevent abuse, a paid plan is required to upload assets.")
 		}
 
 		if actionData.NewAssetSize > plan.MaxAssetSize {
