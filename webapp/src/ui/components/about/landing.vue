@@ -79,7 +79,7 @@
         Ready to simplify your workflow?
       </h2>
       <div class="bg-white py-10 px-10">
-        <Terminal prompt="$" command="mdninja publish" :showCopyToClipboard="false" />
+        <Terminal prompt="$" command="markdown-ninja publish" :showCopyToClipboard="false" />
       </div>
       <div class="flex items-center justify-center gap-x-6">
         <sl-button outline @click="$pingoo.signup()">

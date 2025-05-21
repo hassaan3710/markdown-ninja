@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://markdown.ninja" target="_blank" rel="noopener"><img alt="Markdown Ninja logo" src="webapp/public/webapp/markdown_ninja_logo_512.png" height="200" /></a>
+  <a href="https://markdown.ninja" target="_blank" rel="noopener"><img alt="Markdown Ninja logo" src="webapp/public/webapp/markdown_ninja_logo_512.png" height="128" /></a>
   <h1 align="center">Markdown Ninja</h1>
   <h3 align="center">Markdown-first CMS for bloggers, minimalists and startups. Websites, blogs and newsletters.</h3>
   <h3 align="center">
@@ -8,6 +8,8 @@
 </p>
 
 Markdown Ninja is the easiest way to publish Markdown-based websites and newsletters. The days of hacking a static site generator, a broken theme, a complex CI/CD pipeline and a cloud platform with unlimited billing to publish a website are long gone!
+
+![Dashboard screenshot](webapp/public/webapp/about/app_screenshot.png)
 
 You can now publish your blog, documentation website or newsletter with one command:
 

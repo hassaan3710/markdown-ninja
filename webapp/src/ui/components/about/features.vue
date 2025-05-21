@@ -103,7 +103,7 @@ const features = [
   {
     name: 'No Plugins',
     description: `Don't lose your precious time configuring 20+ plugins and cleaning up your site after a hack due to an outdated plugin.
-      Markdown Ninja includes everything you need to build and grow you audience.`,
+      Markdown Ninja includes everything you need to build and grow your audience.`,
     icon: CodeBracketIcon,
   },
 ];
