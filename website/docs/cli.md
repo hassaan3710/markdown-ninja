@@ -57,6 +57,8 @@ tags: ["life"]
 authors: ["Markdown Ninja"]
 url: "/blog/hello-world"
 # draft: true
+# To send the post by email to subscribers
+# newsletter: true
 ---
 
 Hello, World.
